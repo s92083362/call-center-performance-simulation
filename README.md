@@ -96,7 +96,7 @@ python call_center_sim.py
 
 **Conclusion:** 7 agents provides the best balance between service quality and resource efficiency for this call volume.
 
-## 📄 Documentation
+##  Documentation
 
 Detailed project documentation including:
 - High-level problem description
@@ -107,7 +107,7 @@ Detailed project documentation including:
 
 See `MiniProject_5362.docx` for complete documentation.
 
-## 👤 Author
+##  Author
 
 **R.M.B.P.B Weerakoon**
 - Registration: 721643362
