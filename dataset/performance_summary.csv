@@ -1,0 +1,5 @@
+Agents,Average_Waiting_Time (s),Average_Queue_Length,Throughput (calls/hour),Agent_Utilization (%)
+3,1126.38,216.78,341.0,99.28
+5,432.71,86.17,554.0,98.17
+7,62.45,12.57,703.0,93.28
+9,3.99,0.81,760.0,73.22
